@@ -5,7 +5,7 @@ st.set_page_config(page_title="Car Price Prediction", page_icon="🚗", layout="
 
 API_URL = (
     
-    "http://127.0.0.1:8000/predict"
+    "https://prediction-on-render.onrender.com/product"
 
 )  # change if your endpoint differs
 
